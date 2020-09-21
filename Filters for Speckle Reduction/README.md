@@ -1,6 +1,7 @@
 # Filters for Speckle Reduction
 
-Implementations of 
+Implementations and performance comparisons of the following filters in reducing speckles from images.
+
 - Adaptive Weighted Median Filter
 - Directional Median Filter
 - Aggressive Region Growing Filter
